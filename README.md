@@ -1,4 +1,4 @@
 Fshell
 ======
 
-Self written linux shell 
+Self written shell 
